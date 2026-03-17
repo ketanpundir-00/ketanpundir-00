@@ -17,7 +17,7 @@
 - 🧠 Actively solving **DSA problems** to strengthen problem-solving skills
 - 🤖 Building projects in **NLP, Computer Vision, and Data Analysis**
 - 🚀 Exploring **AI SaaS products** and real-world startup ideas
-- 🛠️ Skilled in **Python, TensorFlow, PyTorch, Pandas, NumPy, and Scikit-learn**
+- 🛠️ Skilled in **Python, PHP, .NET, TensorFlow, PyTorch, Pandas, NumPy, and Scikit-learn**
 - 📚 Currently learning **Advanced Machine Learning, Model Deployment, APIs, and Scalable Systems**
 - 🎯 Goal: To become a strong **AI Engineer** and build impactful AI products
 
@@ -26,12 +26,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ketan-pundir-6a55933a2/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="mailto:00ketanpundir00@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/ketan-pundir-6a55933a2/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:00ketanpundir00@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+  </a>
 </p>
 
 - 💼 LinkedIn: [Ketan Pundir](https://www.linkedin.com/in/ketan-pundir-6a55933a2/)
@@ -43,7 +43,6 @@
 
 - 💻 GeeksforGeeks: [Ketan Pundir](https://www.geeksforgeeks.org/profile/ketanpu534d)
 - 💼 LinkedIn: [Ketan Pundir](https://www.linkedin.com/in/ketan-pundir-6a55933a2/)
-- 📫 Email: **00ketanpundir00@gmail.com**
 
 ---
 
@@ -51,7 +50,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,php,dotnet,sql" />
 </p>
 
 ### 🤖 AI / ML / Data Science
