@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ketan Pundir</h1>
-<h3 align="center">Aspiring AI/ML Engineer 🚀 | DSA Enthusiast | Building AI Projects, Data-Driven Solutions & Future AI SaaS Products</h3>
+<h3 align="center">Founder of ClearLedger 🚀 | AI Automation for Finance & Accounting | Fintech Builder</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Passionate+about+Machine+Learning+%26+Deep+Learning;DSA+Enthusiast+%7C+Project+Builder+%7C+Future+AI+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Solo+Founder+of+ClearLedger;Building+AI+Automation+for+Finance+%26+Accounting;Cleaning+messy+bank+statements+%26+GST+data+in+seconds;Open+to+remote+AI+automation+roles" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://clearledger.co.in"><img src="https://img.shields.io/badge/ClearLedger-Live-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ClearLedger" /></a>
+  <a href="https://www.linkedin.com/in/ketan-pundir-6a55933a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:00ketanpundir00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -13,13 +19,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**
-- 🧠 Actively solving **DSA problems** to strengthen problem-solving skills
-- 🤖 Building projects in **NLP, Computer Vision, and Data Analysis**
-- 🚀 Exploring **AI SaaS products** and real-world startup ideas
-- 🛠️ Skilled in **Python, PHP, .NET, TensorFlow, PyTorch, Pandas, NumPy, and Scikit-learn**
-- 📚 Currently learning **Advanced Machine Learning, Model Deployment, APIs, and Scalable Systems**
-- 🎯 Goal: To become a strong **AI Engineer** and build impactful AI products
+- 💼 Solo founder of **ClearLedger**, a SaaS that cleans and reconciles messy financial data for Indian CAs, accountants, and finance teams
+- 🤖 Building **AI automation for finance**: bank statements, GST 2B, payslips, Tally and Zoho Books exports
+- 🛠️ I build end to end: **Next.js** frontend, **FastAPI** backend, **Supabase** auth and database, deployed and monitored in production
+- 🎓 **M.Com** (Accounting & Business) plus web development work since 2018, so I understand both the accounting side and the code side
+- 📚 Currently learning **RAG, LLM workflows, and AI agents** for finance use cases
+- 🎯 Goal: remote **AI automation / implementation** roles in fintech, and building more products like ClearLedger
 
 ---
 
@@ -36,13 +41,7 @@
 
 - 💼 LinkedIn: [Ketan Pundir](https://www.linkedin.com/in/ketan-pundir-6a55933a2/)
 - 📫 Email: **00ketanpundir00@gmail.com**
-
----
-
-## 💻 Coding Profiles
-
-- 💻 GeeksforGeeks: [Ketan Pundir](https://www.geeksforgeeks.org/profile/ketanpu534d)
-- 💼 LinkedIn: [Ketan Pundir](https://www.linkedin.com/in/ketan-pundir-6a55933a2/)
+- 🌍 Website: [clearledger.co.in](https://clearledger.co.in)
 
 ---
 
@@ -50,57 +49,66 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,dotnet,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,sql" />
 </p>
 
-### 🤖 AI / ML / Data Science
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres,mysql" />
 </p>
 
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css" />
+</p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,sentry" />
 </p>
+
+- **AI & Data:** Gemini API, RAG (BM25 retrieval), Pandas, prompt-driven workflows
+- **Hosting & Monitoring:** Render, Vercel, Sentry, Google Analytics (GA4)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Chatbot using NLP
-Built an intelligent chatbot using Natural Language Processing techniques for user interaction and intent-based responses.
+### 📒 ClearLedger ([clearledger.co.in](https://clearledger.co.in))
+A B2B SaaS for Indian accounting workflows. Upload messy Excel, CSV, or PDF files and get clean, import-ready output.
 
-### 🖼️ Image Classification using CNN
-Developed a deep learning model using Convolutional Neural Networks for image classification tasks.
+- 🏦 Bank statement auto-detect and parsing (HDFC, SBI, ICICI, Axis, Kotak, PNB, Bank of Baroda, Canara)
+- 🔁 Bank reconciliation with narration standardization (UPI, IMPS, NACH, NEFT)
+- 🧾 GST 2B reconciliation with fuzzy matching
+- ✅ GSTIN and PAN format validation
+- 📄 Payslip generation, Tally XML and Zoho Books export
+- ⚡ Handles large files with PDF page limits, timeouts, and early-fail row limits
 
-### 📊 Data Analysis Projects
-Performed exploratory data analysis and extracted meaningful insights using Python libraries like Pandas, NumPy, and Matplotlib.
+**Stack:** Next.js, FastAPI, Supabase (auth, database, RLS), Render, Vercel, Sentry, GA4
 
-### 🧩 DSA Problem Solving
-Consistently solving Data Structures and Algorithms problems to improve logical thinking and coding efficiency.
+### 🤖 GST RAG Chatbot
+A question-answering chatbot over official public GST documents, built to answer with the source page.
 
-### 🚀 AI SaaS Projects (Coming Soon)
-Currently exploring and building AI-powered SaaS ideas focused on solving real-world problems.
+- 📑 PDF ingestion with Q&A-wise chunking (1,000+ chunks)
+- 🔎 BM25 retrieval with light stemming and query expansion
+- 💬 Answers generated with the Gemini API, with search-only fallback, answer caching, and per-IP daily limits
+- 🔗 Already added as an endpoint in the ClearLedger backend
+
+**Stack:** Python, FastAPI, BM25, Gemini API
+
+### 🚀 Coming Next
+- 🧾 GST invoice agent
+- 🏷️ Bank statement AI categoriser
+- ⏰ CA reminder agent
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning Architectures
-- Model Deployment (Flask / FastAPI / Streamlit)
-- APIs and Backend Integration
-- Scalable AI Product Development
-
----
-
-## 🏆 Achievements & Activities
-
-- 🏅 Active participant in **AI and innovation-focused hackathons**
-- 🏅 Exploring **real-world AI product building and SaaS ideas**
-- 🏅 Consistently improving through **DSA practice and project development**
+- Retrieval-Augmented Generation (RAG) and LLM workflows
+- AI agents for finance and accounting tasks
+- Model and API deployment (FastAPI)
+- Scalable SaaS architecture
 
 ---
 
@@ -111,7 +119,7 @@ Currently exploring and building AI-powered SaaS ideas focused on solving real-w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanpundir-00&theme=tokyonight" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=ketanpundir-00&theme=tokyonight" alt="github streak" />
 </p>
 
 <p align="center">
@@ -120,9 +128,9 @@ Currently exploring and building AI-powered SaaS ideas focused on solving real-w
 
 ---
 
-## 💡 Developer Mindset
+## 💡 Builder Mindset
 
-> “I believe in learning by building. Every project, every bug, and every DSA problem is a step toward becoming a better AI Engineer.”
+> "I learn by building. Every product, every bug, and every messy bank statement is a step toward better finance automation."
 
 ---
 
@@ -134,4 +142,4 @@ Currently exploring and building AI-powered SaaS ideas focused on solving real-w
 
 ---
 
-<h3 align="center">⭐ Building today to create smarter solutions tomorrow ⭐</h3>
+<h3 align="center">⭐ Building today to make accounting work simpler tomorrow ⭐</h3>
